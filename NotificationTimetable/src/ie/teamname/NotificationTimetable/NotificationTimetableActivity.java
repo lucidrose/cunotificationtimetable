@@ -14,5 +14,7 @@ public class NotificationTimetableActivity extends Activity {
         int k = 4000;
         int l = 5000;
         int cunt = 9001;
+        
+        int cunt2 = 6;
     }
 }
