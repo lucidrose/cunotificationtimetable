@@ -10,5 +10,6 @@ public class NotificationTimetableActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         int i = 2000;
+        int j = 3000;
     }
 }
