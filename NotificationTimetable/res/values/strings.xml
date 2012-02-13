@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello World, NotificationTimetableActivity!</string>
+    <string name="hello">hello string resource!</string>
     <string name="app_name">NotificationTimetable</string>
 
 </resources>
