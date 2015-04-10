@@ -1,0 +1,1 @@
+A college and university timetable app for Android.
